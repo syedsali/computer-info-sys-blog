@@ -84,3 +84,7 @@ h2{
 p{
     margin-left: 655px;
 }
+.footer:hover {
+    background-size: 150%;
+    background-position: center ;
+  }
