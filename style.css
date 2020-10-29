@@ -1,0 +1,86 @@
+.flexbox-container {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+}
+
+.flexbox-item {
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    width: 400;
+    height: 400;
+    color: black
+
+
+
+}
+
+.one {
+    flex-shrink: 1;
+    border: royalblue double;
+    width: 400;
+    height: 400;
+    align-self: center;
+    flex-shrink: 1;
+
+
+}
+
+#two {
+    display: flex;
+    flex-shrink: 1;
+
+
+
+}
+
+#three {
+    flex-shrink: 1;
+    flex-grow: 2;
+    margin: 30px;
+    justify-content: space-around;
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif
+    font-size: 70px;
+
+
+    color: royalblue;
+}
+
+body{
+    text-decoration: none;
+    background-repeat: no-repeat;
+
+}
+
+h2{
+    margin-top: -30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 190px;
+    
+
+}
+
+#imgone{
+    margin-left: 20px;
+
+}
+#imgtwo{
+    float: right;
+    transform: rotate(3deg);
+    
+}
+.comp{
+    margin-left: 600px;
+}
+
+.nents{
+    margin-left: 600px;
+}
+p{
+    margin-left: 655px;
+}
