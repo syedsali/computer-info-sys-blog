@@ -1,3 +1,7 @@
+body{
+    background-color: lightgrey;
+}
+
 .flexbox-container {
     display: flex;
     justify-content: space-around;
@@ -87,4 +91,21 @@ p{
 .footer:hover {
     background-size: 150%;
     background-position: center ;
+  }
+  .img1{
+
+      border: 2px solid black;
+  }
+
+  .headings{
+      margin-left: 20px;
+  }
+  .video{
+      margin-left: 850px;
+  }
+  .head{
+      font-size: 60px;
+      color: midnightblue;
+      font-family: 'Syne Mono', monospace;
+
   }
