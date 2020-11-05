@@ -109,3 +109,24 @@ p{
       font-family: 'Syne Mono', monospace;
 
   }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid maroon;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .ipad{
+      font-size: 50px;
+      font-family: 'Syne Mono', monospace;
+  }
